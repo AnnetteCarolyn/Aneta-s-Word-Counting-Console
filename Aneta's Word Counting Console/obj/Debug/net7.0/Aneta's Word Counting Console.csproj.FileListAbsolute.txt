@@ -12,3 +12,6 @@ C:\Users\Aneta\Desktop\infa\C#\C# Kuba\Aneta's Word Counting Console\Aneta's Wor
 C:\Users\Aneta\Desktop\infa\C#\C# Kuba\Aneta's Word Counting Console\Aneta's Word Counting Console\obj\Debug\net7.0\Aneta's Word Counting Console.pdb
 C:\Users\Aneta\Desktop\infa\C#\C# Kuba\Aneta's Word Counting Console\Aneta's Word Counting Console\obj\Debug\net7.0\Aneta's Word Counting Console.genruntimeconfig.cache
 C:\Users\Aneta\Desktop\infa\C#\C# Kuba\Aneta's Word Counting Console\Aneta's Word Counting Console\obj\Debug\net7.0\ref\Aneta's Word Counting Console.dll
+C:\Projects\Aneta's Word Counting Console\Aneta's Word Counting Console\obj\Debug\net7.0\Aneta's Word Counting Console.dll
+C:\Projects\Aneta's Word Counting Console\Aneta's Word Counting Console\obj\Debug\net7.0\refint\Aneta's Word Counting Console.dll
+C:\Projects\Aneta's Word Counting Console\Aneta's Word Counting Console\obj\Debug\net7.0\Aneta's Word Counting Console.pdb

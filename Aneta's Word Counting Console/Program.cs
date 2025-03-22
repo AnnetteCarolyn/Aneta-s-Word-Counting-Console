@@ -14,12 +14,12 @@
 
 
 
-            char[] charArray = s.ToCharArray();
-            Array.Reverse(charArray);
+            //char[] charArray = s.ToCharArray();
+           // Array.Reverse(charArray);
 
-            Console.WriteLine(charArray);
+           // Console.WriteLine(charArray);
 
-            string result = s.ToUpper();
+           // string result = s.ToUpper();
             Console.WriteLine($"Original String : {s}"); //=>  Console.WriteLine("Original String :" + " " + s)
             Console.WriteLine(result);
 
